@@ -1,6 +1,8 @@
 Here I implemented cat and grep bash commands that work on MacOS and Linux. 
 
-Commands' functionality is limited. There are made:
+Usage:
+./s21_cat [options] [files]
+./s21_grep [options] template [files]
 
 ● -b, -e, -n, -s, -t options and GNU analogues for cat. 
 
@@ -8,8 +10,6 @@ Commands' functionality is limited. There are made:
 
 ● Multiple file support
 
-Usage:
-cat [options] [file]
-grep [options] template [file]
+● Integration tests that cover all flag variants and input values, based on a comparison with the behavior of real Bash utilities
 
-Code follows the Google style. 
+● Code follows the Google style. 
