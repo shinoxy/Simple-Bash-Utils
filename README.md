@@ -1,4 +1,4 @@
-Here I implemented cat and grep bash commands that work on MacOS and Linux. 
+Here I implemented CAT and GREP bash commands that work on MacOS and Linux. 
 
 Usage:
 ./s21_cat [options] [files]
