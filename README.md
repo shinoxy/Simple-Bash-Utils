@@ -1,12 +1,12 @@
-#In the project CAT and GREP bash commands that work on MacOS and Linux are implememted. 
+# In the project CAT and GREP bash commands that work on MacOS and Linux are implememted. 
 
 ## Usage:
 ./s21_cat [options] [files]
 ./s21_grep [options] template [files]
 
-### -b, -e, -n, -s, -t options and GNU analogues for cat. 
+-b, -e, -n, -s, -t options and GNU analogues for cat. 
 
-### -e -i -v -c -s -n -h -l -o options and their pair compinations for grep.
+-e -i -v -c -s -n -h -l -o options and their pair compinations for grep.
 
 ### Multiple file support
 
