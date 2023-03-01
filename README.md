@@ -1,6 +1,6 @@
 # In the project CAT and GREP bash commands that work on MacOS and Linux are implememted. 
 
-## Usage:
+### Usage:
 ./s21_cat [options] [files]
 ./s21_grep [options] template [files]
 
